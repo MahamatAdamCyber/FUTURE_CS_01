@@ -129,11 +129,7 @@ Disable unnecessary server headers to prevent technology exposure.
 
 ## 📄 Full Report
 
-The complete vulnerability assessment report is available in this repository:
-
-```
-/report/Vulnerability_Assessment_Report.pdf
-```
+The full vulnerability assessment report is available in this repository as a PDF document.
 
 The report contains:
 
